@@ -1,2 +1,0 @@
-# ReactTutorialBasicCheckbox
-Created with CodeSandbox
